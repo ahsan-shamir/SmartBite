@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "312221168701",
+    "project_id": "smart-bite-e13bf",
+    "storage_bucket": "smart-bite-e13bf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312221168701:android:5ab0cf824410fa9bd8e654",
+        "android_client_info": {
+          "package_name": "com.example.smartbitesample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyComgrq-n2lHRO-uMw12o2apWKk3ISf0O0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

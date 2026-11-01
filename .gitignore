@@ -1,0 +1,51 @@
+# Built application files
+*.apk
+*.aar
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+/build
+app/build/
+release/
+app/release/
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk.dir, sensitive API credentials)
+local.properties
+/local.properties
+
+# Android Studio / IntelliJ IDEA
+.idea/
+*.iml
+.DS_Store
+/captures
+.externalNativeBuild
+.cxx
+
+# Kotlin daemon & error logs
+.kotlin/
+*.log
+
+# Antigravity / AI Agent temporary artifacts
+skills-lock.json
+# Environment variables and private credentials
+.env
+.env.*
+!.env.example
+serviceAccountKey.json
+*-adminsdk-*.json
+
+# AI coding-agent files (kept locally)
+.agents/
